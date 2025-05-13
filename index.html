@@ -54,12 +54,17 @@
             </li>
           </ul>
         </address>
+        <button class="burger-btn" type="button">
+          <svg class="burger-icon" width="24" height="24">
+            <use href="./images/icons.svg#icon-burger"></use>
+          </svg>
+        </button>
       </div>
     </header>
     <!-- #endregion HEDER -->
     <main>
       <!-- #region section 1 -->
-      <section class="title">
+      <section class="title hidden">
         <div class="container title-container">
           <h1 class="title-text">Effective Solutions for Your Business</h1>
           <button class="title-btn" type="button">Order Service</button>
@@ -67,7 +72,7 @@
       </section>
       <!-- #endregion section 1 -->
       <!-- #region section 2 -->
-      <section class="feature" id="feature">
+      <section class="feature hidden" id="feature">
         <div class="container container-feature">
           <h2 class="visually-hidden">Feature</h2>
           <ul class="feature-list">
@@ -124,7 +129,7 @@
       </section>
       <!-- #endregion section 2 -->
       <!-- #region section 3 -->
-      <section class="contacts" id="contacts">
+      <section class="contacts hidden" id="contacts">
         <div class="container container-contacts">
           <h2 class="contacts-title-text">Our Team</h2>
           <ul class="contacts-list">
@@ -332,7 +337,7 @@
       </section>
       <!-- #endregion section 3 -->
       <!-- #region section 4 -->
-      <section class="portfolio" id="portfolio">
+      <section class="portfolio hidden" id="portfolio">
         <div class="container container-portfolio">
           <h2 class="portfolio-title-text">Our Portfolio</h2>
           <ul class="portfolio-list">
@@ -461,7 +466,8 @@
       </section>
       <!-- #endregion section 4 -->
     </main>
-    <footer class="footer">
+    <!-- #region footer -->
+    <footer class="footer hidden">
       <div class="container footcon">
         <div class="footer-logo-con">
           <a class="footer-logo" href="./index.html"
@@ -535,7 +541,9 @@
         </div>
       </div>
     </footer>
-    <div class="backdrop is-open">
+    <!-- #endregion footer -->
+    <!-- #region modal -->
+    <div class="backdrop is-open hidden">
       <div class="modal">
         <button class="button-modal-close" type="button">
           <svg class="close-svg" width="8" height="8">
@@ -607,5 +615,6 @@
         </form>
       </div>
     </div>
+    <!-- #endregion modsl -->
   </body>
 </html>
