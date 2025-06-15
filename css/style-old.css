@@ -69,28 +69,28 @@ color: #404bbf;
 .address-link:focus {
     color: #404bbf;
 } */
-.title {
-  /* background-image: linear-gradient(to bottom, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office.jpg);
+/* .title {
+  background-image: linear-gradient(to bottom, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: #2e2f42; */
-  /* padding: 188px 0;
-    max-width: 1440px; */
-  /* background-position: center;
-    margin: 0 auto; */
-}
-.title-text {
-  /* max-width: 496px; */
-  /* margin-left: auto;
-    margin-right: auto; */
-  /* margin-bottom: 48px; */
-  /* font-weight: 700; */
-  /* font-size: 56px;
-    line-height: 107%; */
-  /* letter-spacing: 0.02em;
+    background-color: #2e2f42;
+  padding: 188px 0;
+    max-width: 1440px;
+  background-position: center;
+    margin: 0 auto;
+} */
+/* .title-text {
+  max-width: 496px;
+  margin-left: auto;
+    margin-right: auto;
+  margin-bottom: 48px;
+  font-weight: 700;
+  font-size: 56px;
+    line-height: 107%;
+  letter-spacing: 0.02em;
     text-align: center;
-    color: #fff; */
-}
+    color: #fff;
+} */
 /* .title-btn {
     display: block;
     min-width: 169px;
@@ -115,10 +115,10 @@ color: #404bbf;
   padding: 120px 0;
 } */
 
-.feature-list {
-  /* display: flex; */
-  /* gap: 24px; */
-}
+/* .feature-list {
+  display: flex;
+  gap: 24px;
+} */
 /* .feature-list-ithem {
   width: calc((100% - 3 * 24px) / 4);
 } */
@@ -137,33 +137,33 @@ color: #404bbf;
   margin-left: auto;
   margin-right: auto;
 } */
-.feature-title {
-  /* margin-bottom: 8px; */
+/* .feature-title {
+  margin-bottom: 8px;
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
-  /* letter-spacing: 0.02em; */
-  /* color: #2e2f42; */
-}
-.feature-text {
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+} */
+/* .feature-text {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
-}
-.contacts {
+} */
+/* .contacts {
   background-color: #f4f4fd;
-}
-.contacts {
+} */
+/* .contacts {
   padding: 120px 0;
-}
-.contacts-list {
+} */
+/* .contacts-list {
   display: flex;
   gap: 24px;
-}
-.contacts-card {
+} */
+/* .contacts-card {
   padding: 32px 0;
-}
-.contacts-title-text {
+} */
+/* .contacts-title-text {
   margin-bottom: 72px;
   font-weight: 700;
   font-size: 36px;
@@ -172,8 +172,8 @@ color: #404bbf;
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
-}
-.contacts-title {
+} */
+/* .contacts-title {
   margin-bottom: 8px;
   font-weight: 500;
   font-size: 20px;
@@ -181,20 +181,20 @@ color: #404bbf;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-}
-.contacts-text {
+} */
+/* .contacts-text {
   line-height: 150%;
   letter-spacing: 0.02em;
   text-align: center;
   margin-bottom: 8px;
-}
-.contacts-list-ithem {
+} */
+/* .contacts-list-ithem {
   flex-basis: calc((100% - 3 * 24px) / 4);
   border-radius: 0 0 4px 4px;
   background-color: #fff;
   box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
     0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
-}
+} */
 /* .contacts-social {
     display: flex;
     gap: 24px;
@@ -222,7 +222,7 @@ color: #404bbf;
 .portfolio {
   padding: 120px 0;
 }
-.portfolio-title-text {
+/* .portfolio-title-text {
   margin-bottom: 72px;
   font-weight: 700;
   font-size: 36px;
@@ -231,12 +231,12 @@ color: #404bbf;
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
-}
+} */
 .portfolio-list {
-  display: flex;
-  flex-wrap: wrap;
-  row-gap: 48px;
-  column-gap: 24px;
+  /* display: flex; */
+  /* flex-wrap: wrap; */
+  /* row-gap: 48px;
+  column-gap: 24px; */
 }
 .portfolio-list-ithem {
   flex-basis: calc((100% - 24 * 2) / 3);
@@ -246,16 +246,15 @@ color: #404bbf;
   box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
     0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
 }
-.portfolio-cards {
+/* .portfolio-cards {
   border-bottom: 1px solid #e7e9fc;
   border-left: 1px solid #e7e9fc;
   border-right: 1px solid #e7e9fc;
   padding: 32px 16px;
   width: 360px;
   height: 120px;
-  padding: 32px 16px;
-}
-.portfolio-title {
+} */
+/* .portfolio-title {
   margin-bottom: 8px;
   font-weight: 500;
   font-size: 20px;
@@ -267,7 +266,7 @@ color: #404bbf;
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
-}
+} */
 .overlay {
   position: relative;
   overflow: hidden;
