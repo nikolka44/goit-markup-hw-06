@@ -290,16 +290,16 @@ color: #404bbf;
 } */
 .footer {
   padding: 100px 0;
-  background-color: #2e2f42;
+  /* background-color: #2e2f42; */
 }
 .footcon {
-  display: flex;
-  align-items: baseline;
+  /* display: flex; */
+  /* align-items: baseline; */
 }
-.footer-logo-con {
+/* .footer-logo-con {
   margin-right: 120px;
-}
-.footer-logo {
+} */
+/* .footer-logo {
   display: inline-block;
   margin-bottom: 16px;
   font-family: 'Raleway', sans-serif;
@@ -309,23 +309,23 @@ color: #404bbf;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-}
-.footer-logo-studio {
+} */
+/* .footer-logo-studio {
   font-weight: 700;
   font-size: 18px;
   line-height: 117%;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
-}
-.footer-text {
+} */
+/* .footer-text {
   max-width: 264px;
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-}
-.footer-social {
+} */
+/* .footer-social {
   width: 208px;
 }
 .footer-social-title {
@@ -335,8 +335,8 @@ color: #404bbf;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #fff;
-}
-.contacts-social-footer {
+} */
+/* .contacts-social-footer {
   display: flex;
   gap: 16px;
   justify-content: center;
@@ -355,8 +355,8 @@ color: #404bbf;
 .contacts-social-link-footer:hover,
 .contacts-social-link-footer:focus {
   background-color: #31d0aa;
-}
-.footer-subscribe {
+} */
+/* .footer-subscribe {
   display: flex;
   flex-direction: column;
   margin-left: auto;
@@ -418,7 +418,7 @@ color: #404bbf;
 .footer-subscribe-icon {
   fill: #fff;
   margin-left: 16px;
-}
+} */
 
 .backdrop {
   position: fixed;
